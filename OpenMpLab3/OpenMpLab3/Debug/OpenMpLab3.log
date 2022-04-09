@@ -1,0 +1,20 @@
+﻿  OpenMpLab3.cpp
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(10,6): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(11,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(11,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(8): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(8): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(44,6): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(45,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(45,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(42): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(42): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(171,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(171,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(166): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(166): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(209,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(209,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(206): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpLab3\OpenMpLab3\OpenMpLab3.cpp(206): warning C4101: i: неиспользованная локальная переменная
+  OpenMpLab3.vcxproj -> C:\Users\vld85\source\repos\OpenMpLab3\Debug\OpenMpLab3.exe
