@@ -245,7 +245,7 @@ int main() {
 	setlocale(LC_ALL, "Russian");
 
 	const int highLevel = 1;
-	const int vSize = 100000000;
+	const int vSize = 1000;
 
 	unsigned long long sum = 0;
 

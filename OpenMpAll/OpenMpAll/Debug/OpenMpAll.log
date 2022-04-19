@@ -1,0 +1,20 @@
+﻿  OpenMpAll.cpp
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(10,6): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(11,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(11,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(8): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(8): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(44,6): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(45,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(45,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(42): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(42): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(210,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(210,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(205): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(205): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(248,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(248,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(245): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\vld85\source\repos\OpenMpAll\OpenMpAll\OpenMpAll.cpp(245): warning C4101: i: неиспользованная локальная переменная
+  OpenMpAll.vcxproj -> C:\Users\vld85\source\repos\OpenMpAll\Debug\OpenMpAll.exe
